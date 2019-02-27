@@ -1,0 +1,6 @@
+    <form>
+        <p>Please select an option:</p>
+            <input type="radio" name="rating" value="excellent"> Excellent<br />
+            <input type="radio" name="rating" value="good"> Good <br />
+            <input type="radio" name="rating" value="bad"> Bad <br />
+    </form>
