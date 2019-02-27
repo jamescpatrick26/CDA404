@@ -1,0 +1,5 @@
+    <form action="http://www.google.com" method="post">
+        <p> <label for="name">Name:</label> <input type="text" name="name"></p>
+        <p> <label for="email">Email:</label> <input type="text" name="email"></p>
+        <p> <label for="submit"></label><input type="submit" value="submit"></p>
+    </form>
