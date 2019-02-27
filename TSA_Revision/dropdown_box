@@ -1,0 +1,8 @@
+    <form>
+        <select name="select">
+            <option value="cheese">cheese</option>
+            <option value="ham">ham</option>
+            <option value="tomato">tomato</option>
+            <option value="cucumber">cucumber</option>
+        </select>
+    </form>
